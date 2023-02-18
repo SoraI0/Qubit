@@ -997,4 +997,12 @@ ul {
         height: unset;
         width: unset;
     }
+
+    .easy-to-use__btns {
+        flex-direction: column;
+    }
+
+        .easy-to-use__btn {
+            width: 300px;
+        }
 }
