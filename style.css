@@ -675,6 +675,7 @@ ul {
 
     .demo-form {
         background: url(./images/demo-form-bg.png);
+        background-size: cover;
     }
 
         .demo-form__inner {
